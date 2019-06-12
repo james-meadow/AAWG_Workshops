@@ -8,9 +8,12 @@
 
 ### Files: 
 
-* `AAWG.ipynb` = Beginner level intro to python for data science. 
 
-* `AAWG_NLP.ipynb` = Advanced intro to Natural Language Processing and Topic Modeling in python. 
+* `class/` = Use these for our Dev Day classes
+  * `AAWG.ipynb` = Beginner level intro to python for data science. 
+  * `AAWG_NLP.ipynb` = Advanced intro to Natural Language Processing and Topic Modeling in python. 
+* `solution/` = same files, but completed. These can be reference if we don't finish the content. 
+
 
 ### Workshop Instructions: 
 
@@ -29,6 +32,8 @@
   * File > Open Notebook > Upload 
   * Either drag the file or navigate to it. 
   * You can also enter the link in GitHub, but you won't be able to save your work the same way. 
+
+* **Follow along and take lots of notes/comments!!** That way you have a good reference when you come back. 
 
 * When we're done, either keep it in your own gmail account, or download it to work on it elsewhere: 
   * File > Download .ipynb 
