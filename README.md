@@ -23,6 +23,12 @@
 * Start a Colab Jupyter session: 
   * go to [colab.research.google.com](https://colab.research.google.com) and log in 
     * Either use your own personal gmail account (ideal) or create a new one. This way you'll have access to your notebook after the class. 
-    * Otherwise, feel free to use the AAWG account that is up on the slide. But you'll need to download the notebook and run it separately after the class. 
+    * Otherwise, feel free to use the AAWG account that is up on the slide. But you'll need to download the notebook to keep your work and continue with it after the class. 
 
+* Open the appropriate notebok in Colab: 
+  * File > Open Notebook > Upload 
+  * Either drag the file or navigate to it. 
+  * You can also enter the link in GitHub, but you won't be able to save your work the same way. 
 
+* When we're done, either keep it in your own gmail account, or download it to work on it elsewhere: 
+  * File > Download .ipynb 
