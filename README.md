@@ -21,7 +21,7 @@
   * Use the green "Clone or download" button on the right. 
   * If you already know how to use Git, you can clone it. 
   Otherwise, download it to your computer and unzip it. 
-  * Get into the folder so you can see the two `.ipynb` files. 
+  * Get into the `class/` folder so you can see the two `.ipynb` files. 
 
 * Start a Colab Jupyter session: 
   * go to [colab.research.google.com](https://colab.research.google.com) and log in 
